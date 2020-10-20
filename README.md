@@ -16,10 +16,7 @@ I'm Simon. I love coding and triahtlon - constantly contradicting the cliche :ra
 **Github Stats:**
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=strobsi&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strobsi&count_private=true&theme=dracula">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=strobsi&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
 
 ---
