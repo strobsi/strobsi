@@ -11,5 +11,15 @@ I'm Simon. I love coding and triahtlon - constantly contradicting the cliche :ra
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/appwiese) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/simon-strobel-26b43b107/)
 
 
+---
 
-[![strobsi's github stats](https://github-readme-stats.vercel.app/api?username=strobsi)](https://github.com/anuraghazra/github-readme-stats)
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=strobsi&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strobsi&count_private=true&theme=dracula">
+
+</p>
+
+---
