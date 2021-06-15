@@ -2,7 +2,7 @@
 
 I'm Simon. I love coding and triahtlon - constantly contradicting the cliche :raised_hands: 
 
-🔭 I’m currently working on [VOTO](https://github.com/teamtomorroworg)
+🔭 I’m currently working on [VOTO](https://github.com/voto-vote)
 
 ![](https://komarev.com/ghpvc/?username=strobsi)
 
